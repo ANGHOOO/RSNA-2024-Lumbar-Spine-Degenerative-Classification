@@ -1,4 +1,4 @@
-# 133rd Place Solution to the RSNA 2024 Lumbar Spine Degenerative Classification Competition
+# 🥉133rd Place Solution to the RSNA 2024 Lumbar Spine Degenerative Classification Competition
 
 ## Introduction
 
